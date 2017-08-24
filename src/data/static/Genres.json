@@ -9,10 +9,26 @@
                 "tactical shooter",
                 "rail shooter",
                 "third person shooter",
-                "driving",
-                "racing",
                 "stealth",
                 "survival horror"
+                "Point And Click",
+                "Adventue",
+                "Bear Week Jam",
+                "Flash"
+                "Simulator"
+                "Steam Greenlight"
+                "Mr.Whale Fan"
+                "Text Based"
+                "Murder Mystery"
+                "Gambling"
+                "Rated M"
+                "Crime"
+                "Propaganda"
+                "Source Engine"
+                "Batch"
+                "Parody"
+               
+                        
             ],
             "actions": [
                 "shoot",
@@ -55,9 +71,6 @@
                 "torch",
                 "kick",
                 "kiss",
-                "eat",
-                "carry",
-                "insert an idea here",
                 "ride"
             ],
             "items": [
@@ -128,7 +141,6 @@
                 "genetically modified apes",
                 "ninjas",
                 "sailers",
-                "error code 14",
                 "whales",
                 "sea monsters",
                 "that guy you hate at work",
@@ -139,8 +151,6 @@
                 "civilians",
                 "sharks",
                 "nazis",
-                "rick",
-                "morty",
                 "Adolf Hitler",
                 "Bill Gates",
                 "world leaders",
@@ -163,7 +173,6 @@
                 "at the supermarket",
                 "at your sons wedding",
                 "in prison",
-                "main street",
                 "at Mc Donald's",
                 "at a retirement home",
                 "on the internet",
@@ -189,7 +198,6 @@
                 "to find your one and true love. Which is actually just a blow up doll you buy.",
                 "to save the whales. Except you're actually a Harpoon.",
                 "for freedom!!",
-                "to find out how many animals exist at your current location",
                 "to end world hunger",
                 "for victory",
                 "for the glory",
